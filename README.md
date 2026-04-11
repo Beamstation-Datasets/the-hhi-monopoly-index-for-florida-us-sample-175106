@@ -1,2 +1,41 @@
-# the-hhi-monopoly-index-for-florida-us-sample-175106
-Free BeamStation sample for The HHI Monopoly Index for Florida, US (1,881 records in the full dataset)
+# The HHI Monopoly Index for Florida, US
+
+> Free BeamStation sample export with 188 rows and masked direct-contact fields.
+
+## Snapshot
+
+| Field | Value |
+|---|---|
+| Dataset ID | `175106` |
+| Location | Florida |
+| Category | Restaurants |
+| Full dataset size | 1,881 records |
+| Free sample size | 188 records (9.99%) |
+| Last export | 2026-04-08T00:51:57.951501+00:00 |
+| Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-florida-us-sample-175106/releases/download/sample-latest/beamstation_175106_restaurants-us-fl_SAMPLE_DIST.csv) |
+
+## What is in this sample
+
+This sample is generated directly from the BeamStation export pipeline and combines the `complete` and `insights` export profiles into one evaluation CSV.
+
+Included signals:
+- business profile and location fields
+- ratings, review counts, and review activity
+- Beam Score and competitive metrics
+- sentiment and percentile features
+- social profile signals
+- masked email and masked phone fields
+
+## Get the full dataset
+
+The full commercial dataset is available in the BeamStation catalog:
+
+[https://beamstation.com/datasets](https://beamstation.com/datasets)
+
+Search for dataset ID `175106` on BeamStation if you want the exact commercial listing.
+
+## Notes
+
+- This repository only contains a free sample.
+- Contact data that drives the commercial value is partially masked.
+- The source sample file is mirrored from BeamStation B2 storage and refreshed from CentralDB exports.
