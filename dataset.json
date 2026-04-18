@@ -6,7 +6,7 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Florida, US",
-  "export_job_id": "79c51f75-83ce-4208-a8f5-26d058d15075",
+  "export_job_id": "6ea4e0bb-8cab-49ab-86fc-df471563667d",
   "github_org": "Beamstation-Datasets",
   "id_short": 175106,
   "location_name": "Florida",
@@ -14,9 +14,9 @@
   "repo_name": "the-hhi-monopoly-index-for-florida-us-sample-175106",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/175106/beamstation_175106_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 188,
-  "sample_sha256": "c32068076f37671dc15db68b3e39bd839a4bf1a21d3bf67af3ee01ee18b56e8e",
-  "sample_size_bytes": 754854,
-  "total_records": 1881,
-  "updated_at": "2026-04-08T00:51:57.951501+00:00"
+  "sample_records": 156,
+  "sample_sha256": "93f07196faf42eb4ed6f7a8c9c24ebe474d9652327bc761b0fe0b8916ebf3406",
+  "sample_size_bytes": 623333,
+  "total_records": 1561,
+  "updated_at": "2026-04-15T06:34:27.500448+00:00"
 }
