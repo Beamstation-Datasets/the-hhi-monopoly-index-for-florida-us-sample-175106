@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6ea4e0bb-8cab-49ab-86fc-df471563667d",
+  "export_job_id": "88108283-1b55-4958-87b8-b2694ff47832",
   "id_short": 175106,
-  "published_at": "2026-04-18T07:32:15Z",
+  "published_at": "2026-04-22T19:21:03Z",
   "repo_name": "the-hhi-monopoly-index-for-florida-us-sample-175106",
   "sample_asset_name": "beamstation_175106_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/175106/beamstation_175106_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 156,
-  "sample_sha256": "93f07196faf42eb4ed6f7a8c9c24ebe474d9652327bc761b0fe0b8916ebf3406",
-  "sample_size_bytes": 623333,
-  "total_records": 1561
+  "sample_records": 103,
+  "sample_sha256": "1a03c6055981d7f951ee910c6f8859e32eee6884ccb1c342382d5358322c0df4",
+  "sample_size_bytes": 409507,
+  "total_records": 1038
 }
